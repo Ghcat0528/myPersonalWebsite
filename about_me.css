@@ -1,22 +1,22 @@
-body{
-    background-color: darkseagreen;
+body {
+  background-color: darkseagreen;
 }
 
 header {
-    margin-left: 43%;
-    margin-bottom: 50px;
-    color: rgb(95, 87, 144);
-    font: 32px "monaco";
-  }
+  margin-left: 43%;
+  margin-bottom: 50px;
+  color: rgb(95, 87, 144);
+  font: 32px "monaco";
+}
 
-  h2 {
-    margin-left: 2%;
-    color:beige
-  }
-  h3{
-    margin-left: 5%;
-    color:rgb(118, 108, 94)
-  }
-  p{
-    margin-left: 3%
-  }
+h2 {
+  margin-left: 2%;
+  color: beige;
+}
+h3 {
+  margin-left: 5%;
+  color: rgb(118, 108, 94);
+}
+p {
+  margin-left: 3%;
+}

@@ -1,24 +1,23 @@
 header {
-    margin-left: 37%;
-    margin-bottom: 50px;
-    color: rgb(95, 87, 144);
-    font: 32px "monaco";
-  }
+  margin-left: 37%;
+  margin-bottom: 50px;
+  color: rgb(95, 87, 144);
+  font: 32px "monaco";
+}
 
-  img {
-    width: 400px;
-    margin-left: 40%;
-  }
-  h3 {
-    margin-left: 28%
-  }
-  p {
-    margin-left: 27%
-  }
-  .Portfolio {
-    margin-left: 37%;
-    
-  }
-  body{ 
-    background-color: rgb(233, 233, 202);
-  }
+img {
+  width: 400px;
+  margin-left: 40%;
+}
+h3 {
+  margin-left: 28%;
+}
+p {
+  margin-left: 27%;
+}
+.Portfolio {
+  margin-left: 37%;
+}
+body {
+  background-color: rgb(233, 233, 202);
+}
