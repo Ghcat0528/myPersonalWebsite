@@ -1,6 +1,6 @@
 /*This is just to make things look nice */
 header {
-  margin-left: 600px;
+  margin-left: 41%;
   margin-bottom: 50px;
   color: rgb(95, 87, 144);
   font: 32px "monaco";
@@ -8,18 +8,24 @@ header {
 h3 {
   color: rgb(141, 166, 187);
   font: 20px "monaco";
-  margin-left: 670px;
+  margin-left: 49%;
+  margin-right: 4%;
 }
 p {
   font: 17px "monaco";
   color: rgb(18, 52, 60);
-  margin-left: 480px;
+  margin-left: 35%;
+  margin-right: 4%;
 }
 img {
-  height: 300px;
-  margin-left: 460px;
-  margin-bottom: 35px;
-  padding: 10px;
+  width: 50%;
+  margin-left: 29%;
+  margin-bottom: 10%;
+  padding: 2%;
+}
+
+.smimg {
+  margin-left: 31%;
 }
 /*This is to animate the backround color from a grey to a dark grey forever */
 body {
@@ -42,14 +48,14 @@ body {
 /*This is to line all the links up with the middle of the picture: */
 
 .Grocery {
-  margin-left: 700px;
+  margin-left: 52%;
   font: 16px "monaco";
 }
 .Zoo {
-  margin-left: 687px;
+  margin-left: 50%;
   font: 16px "monaco";
 }
 .Link {
-  margin-left: 700px;
+  margin-left: 52%;
   font: 16px "monaco";
 }
