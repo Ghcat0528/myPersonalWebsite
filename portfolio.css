@@ -1,31 +1,33 @@
 /*This is just to make things look nice */
 header {
-  margin-left: 41%;
+  margin-left: 40%;
   margin-bottom: 50px;
+  margin-right:10%;
   color: rgb(95, 87, 144);
   font: 32px "monaco";
 }
 h3 {
   color: rgb(141, 166, 187);
   font: 20px "monaco";
-  margin-left: 49%;
-  margin-right: 4%;
+  margin-left: 45%;
+  margin-right: 10%;
 }
 p {
   font: 17px "monaco";
   color: rgb(18, 52, 60);
-  margin-left: 35%;
+  margin-left: 34%;
   margin-right: 4%;
 }
 img {
-  width: 50%;
+  max-width: 45%;
   margin-left: 29%;
   margin-bottom: 10%;
   padding: 2%;
 }
 
 .smimg {
-  margin-left: 31%;
+  width: 30%;
+  margin-left: 34%;
 }
 /*This is to animate the backround color from a grey to a dark grey forever */
 body {
@@ -48,14 +50,14 @@ body {
 /*This is to line all the links up with the middle of the picture: */
 
 .Grocery {
-  margin-left: 52%;
+  margin-left: 47%;
   font: 16px "monaco";
 }
 .Zoo {
-  margin-left: 50%;
+  margin-left: 49%;
   font: 16px "monaco";
 }
 .Link {
-  margin-left: 52%;
+  margin-left: 48%;
   font: 16px "monaco";
 }

@@ -1,26 +1,40 @@
 header {
   margin-left: 37%;
   margin-bottom: 50px;
+  margin-right: 10%;
   color: rgb(95, 87, 144);
   font: 32px "monaco";
 }
 
 img {
-  width: 400px;
-  margin-left: 40%;
+    height:25%;
+  width: 50%;
+  margin-left: 32%;
+  margin-right: 30%;
+   
 }
 h3 {
   margin-left: 28%;
+  margin-right: 10%;
 }
 p {
-  margin-left: 27%;
+  margin-left: 28%;
+  margin-right: 10%;
 }
 .Portfolio {
-  margin-left: 37%;
+  margin-left: 12%;
 }
 body {
   background-color: rgb(233, 233, 202);
 }
 .About {
-  margin-left: 20%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.parent{
+    display:flex;
+    flex-direction: row;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
 }
