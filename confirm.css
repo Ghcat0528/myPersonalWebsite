@@ -1,0 +1,8 @@
+body{
+    background-image: url(https://images.pexels.com/photos/1831234/pexels-photo-1831234.jpeg?cs=srgb&dl=pexels-mdsnmdsnmdsn-1831234.jpg&fm=jpg);
+}
+h1{
+    display: flex;
+    justify-content: center;
+    margin-top: 20%;
+}
