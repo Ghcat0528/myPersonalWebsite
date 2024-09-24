@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(219, 229, 239) !important;
+}
+
+header { 
+    color: rgb(95, 87, 144);
+    font: 32px "monaco";
+    display: flex;
+    justify-content: center;
+    margin-top: 2%;
+    border-radius: 2%;
+    border: dotted 
+}
+h3{ 
+    background-color: rgb(215, 250, 235);
+    color: #9196da !important;
+    display: flex;
+    justify-content: center;
+    font:20px "monaco";
+}
+
+.name{
+    margin-top:5%;
+margin-left:30%;
+width:40%;
+display: flex;
+}
+.email{
+    width:45%;
+    margin-left:28%;
+    display:flex;
+}
+
+.text-box{ 
+    margin-top:3%;
+    width: 35%;
+    margin-left:34%;
+}
+.btn-outline-primary{
+    margin-top:3%;
+    margin-left:47%;
+}
